@@ -1,0 +1,74 @@
+{
+    "request": [
+        {
+            "description": "Das ist ein kleiner Beschreibungstext für einen Appetizer",
+            "price": 8.99,
+            "imageURL": "https://www.google.de",
+            "protein": 4,
+            "calories": 580,
+            "id": 1,
+            "carbs": 14,
+            "name": "chicken"
+        },
+        {
+            "description": "Das ist ein kleiner Beschreibungstext für einen Appetizer",
+            "price": 8.99,
+            "imageURL": "https://www.google.de",
+            "protein": 4,
+            "calories": 580,
+            "id": 2,
+            "carbs": 14,
+            "name": "Wurst"
+        },
+        {
+            "description": "Das ist ein kleiner Beschreibungstext für einen Appetizer",
+            "price": 8.99,
+            "imageURL": "https://www.google.de",
+            "protein": 4,
+            "calories": 580,
+            "id": 3,
+            "carbs": 14,
+            "name": "Kohl"
+        },
+        {
+            "description": "Das ist ein kleiner Beschreibungstext für einen Appetizer",
+            "price": 8.99,
+            "imageURL": "https://www.google.de",
+            "protein": 4,
+            "calories": 580,
+            "id": 4,
+            "carbs": 14,
+            "name": "Hamburger"
+        },
+        {
+            "description": "Das ist ein kleiner Beschreibungstext für einen Appetizer",
+            "price": 8.99,
+            "imageURL": "https://www.google.de",
+            "protein": 4,
+            "calories": 580,
+            "id": 5,
+            "carbs": 14,
+            "name": "Schnitzel"
+        },
+        {
+            "description": "Das ist ein kleiner Beschreibungstext für einen Appetizer",
+            "price": 8.99,
+            "imageURL": "https://www.google.de",
+            "protein": 4,
+            "calories": 580,
+            "id": 6,
+            "carbs": 14,
+            "name": "Salat"
+        },
+        {
+            "description": "Das ist ein kleiner Beschreibungstext für einen Appetizer",
+            "price": 8.99,
+            "imageURL": "https://www.google.de",
+            "protein": 4,
+            "calories": 580,
+            "id": 7,
+            "carbs": 14,
+            "name": "Spaghetti"
+        }
+    ]
+}
